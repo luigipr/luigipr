@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=luigipr&label=Profile%20views&color=0e75b6&style=flat" alt="luigipr" /> </p>
 
-- 🌱 I’m currently learning **Java and Spring**
+- 🌱 I’m currently learning **Python**
 
 - 📝 I speak **Portuguese and English**
 
